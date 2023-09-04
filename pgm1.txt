@@ -10,10 +10,3 @@ line 4 p2
 line 5 p2
 line 6 p2
 
-Git - Software versioning system/tool - software - desktop - collaborate
-local system - local repository
-
-Github - Repository storage system - website - central loc / remote loc
-remote system - remote repository
-
-download git - 
