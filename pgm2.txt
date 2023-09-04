@@ -1,2 +1,4 @@
 line 1 in pgm2
 line 2 in pgm2
+
+line 3 in pgm2

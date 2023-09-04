@@ -10,3 +10,12 @@ line 4 p2
 line 5 p2
 line 6 p2
 
+git init -> 1st time to init local repo
+git add .
+git commit -m "msg"
+git remote add origin <url of remote repo> - 1st time
+git push origin master 
+
+git config --global user.name "Your github usrname"
+git config --global user.email "same email for github"
+
